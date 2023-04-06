@@ -1,6 +1,10 @@
+<img src="https://github.com/CJ484/CJ484/blob/88402e823f8944cecad16b2a6f276228d0db7adc/CARLOS%20COREAS.png" alt="Carlos Coreas ReactJS Developer Banner image"/>
+
 # 💫 About Me:
-I'm currently learning to be a Front-End Developer. After taking a BootCamp course and taking a mentorship,<br>
-I'm ready to take on real projects.<br>
+🧠 I'm currently learning to be a Front-End Developer. After taking a BootCamp course and taking a mentorship,<br>
+👍 I'm ready to take on real projects.Feel free to take a look at my work!<br>
+📗 My next library to learn is Redux<br>
+
 
 
 ## 🌐 Socials:
