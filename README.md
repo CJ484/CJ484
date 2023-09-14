@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 🧠 I'm currently learning to be a Front-End Developer. After taking a BootCamp course and taking a mentorship,<br>
-👍 I'm ready to take on real projects.Feel free to take a look at my work!<br>
-📗 My next library to learn is Redux<br>
+👍 I'm ready to take on real projects. Feel free to take a look at my work!<br>
+📗 My next learning topic is on Authentication strategies Re<br>
 
 
 
